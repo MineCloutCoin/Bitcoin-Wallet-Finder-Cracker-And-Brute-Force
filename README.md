@@ -30,3 +30,13 @@ just stable OS and an uninterrupted internet connection for tool to run :)
 <br><br>
 <br><br>
 
+# for tutorial click on YouTube icon below
+<p align="center">
+  Follow Me On
+</p>
+<p align="center">
+  <a href="https://youtu.be/2aIN8XzD4gE">
+    <img src="https://www.iconsdb.com/icons/preview/red/youtube-4-xxl.png" width="40" height="40">
+  </a>
+</p>
+
