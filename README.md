@@ -30,6 +30,8 @@ just stable OS and an uninterrupted internet connection for tool to run :)
 <br><br>
 <br><br>
 
+https://github.com/user-attachments/assets/85560aa7-0e02-4c37-aa0b-59a39601a172
+
 # for tutorial click on YouTube icon below
 <p align="center">
   Follow Me On
