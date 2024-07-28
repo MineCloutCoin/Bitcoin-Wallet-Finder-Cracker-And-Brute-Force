@@ -30,9 +30,9 @@ just stable OS and an uninterrupted internet connection for tool to run :)
 <br><br>
 <br><br>
 
-https://github.com/user-a
-https://github.com/user-attachments/assets/ab65a197-7cc0-4273-9eb2-faff58c73184
-ttachments/assets/85560aa7-0e02-4c37-aa0b-59a39601a172
+https://github.com/user-attachments/assets/8d296924-6da3-40ff-a6a9-c0523d6b74f2
+
+https://github.com/user-attachments/assets/874b152b-257c-4c2e-8ebb-9318b0fbbc46
 
 # for tutorial click on YouTube icon below
 <p align="center">
